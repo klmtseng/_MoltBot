@@ -1,0 +1,12 @@
+{
+  "name": "smart-tts",
+  "version": "1.0.0",
+  "description": "Smart TTS with multi-language detection (adapted from native-speak-emotional-tts)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js --test"
+  },
+  "author": "Aaron & 小龍蝦",
+  "license": "MIT"
+}
